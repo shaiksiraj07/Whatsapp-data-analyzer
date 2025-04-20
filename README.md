@@ -80,3 +80,5 @@ python app.py
 cd frontend
 npm install
 npm start
+
+//And the application starts running on browser
